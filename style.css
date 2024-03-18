@@ -1,0 +1,39 @@
+.img-01{
+width: 800px;
+border: 4px solid brown;
+border-radius: 25px;
+display: block;
+margin: auto;
+}
+.title{
+    text-align: center;
+    background-color: gray;
+    padding: 10px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    
+    }
+
+.body {
+    background-image: url(e540b406a796b574a11b7869b0eedeb1\ -\ copia.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.audio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+
